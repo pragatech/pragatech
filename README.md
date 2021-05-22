@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Pragatheeswaran. After lot of struggle, I feel back to normal for chasing my dream. 
 
 <!--
 **pragatech/pragatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
